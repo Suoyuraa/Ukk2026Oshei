@@ -13,9 +13,9 @@ Repository ini berisi source code aplikasi web berbasis Laravel untuk keperluan 
 
 ### 📂 Catatan File Tugas & Lampiran di Repository Ini:
 Selain file bawaan framework Laravel, di dalam root repository ini juga terdapat beberapa file penunjang tugas:
-* **`LAPORAN EVALUASI SINGKAT.docx`** ➔ File laporan evaluasi proyek/tugas[cite: 2].
-* **`Dokumentasi.docx`** ➔ File dokumentasi pengerjaan tugas[cite: 2].
-* **`peminjaman_buku.sql`** ➔ File database SQL untuk sistem peminjaman buku[cite: 2].
+* **`LAPORAN EVALUASI SINGKAT.docx`** ➔ File laporan evaluasi proyek/tugas.
+* **`Dokumentasi.docx`** ➔ File dokumentasi pengerjaan tugas.
+* **`peminjaman_buku.sql`** ➔ File database SQL untuk sistem peminjaman buku.
 
 ---
 
